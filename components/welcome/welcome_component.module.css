@@ -1,0 +1,58 @@
+.welcome {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  height: 30rem;
+  position: relative;
+}
+
+.welcome h1 {
+  font-size: 4rem;
+  color: white;
+}
+
+.welcome h3 {
+  font-size: 2rem;
+  font-style: italic;
+  color: white;
+}
+
+.bgWrap {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.hr {
+  width: 80%;
+  border: 1px solid rgba(0, 113, 243, 1);
+}
+
+.icon {
+  font-size: 15rem;
+  color: white;
+}
+
+@media (max-width: 700px) {
+  .icon {
+    font-size: 7rem;
+    color: white;
+  }
+  .welcome h1 {
+    font-size: 2rem;
+  }
+  .welcome h3 {
+    font-size: 1rem;
+  }
+}

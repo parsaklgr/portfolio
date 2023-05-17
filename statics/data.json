@@ -1,0 +1,82 @@
+{
+  "educations": [
+    {
+      "university": "University of Tehran",
+      "level": "Master's degree",
+      "time": "2019-2022",
+      "major": "Digital Electronics"
+    },
+    {
+      "university": "University of Tehran",
+      "level": "Bachelor of Science",
+      "time": "2014-2018",
+      "major": "Digital Electronics"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Free Automatic Schedule Maker",
+      "description": "Automatic academic schedule builder automatically generates and develop all possible schedules based on available courses' times. Enter your courses and hit auto generate schedules. It generates schedules so that there is no overlap in courses' times. You can determine if a course is optional or not, too.",
+      "image": "autoscheduleir_pic.png",
+      "liveView": "https://autoschedule.ir",
+      "sourceCode": "https://autoschedule.ir"
+    },
+    {
+      "title": "Free Schedule Maker",
+      "description": "Schedule builder makes developing and making your academic, university, school, training, study, or personal weekly schedules easy. Build and generate your weekly schedules responsively and interactively online.",
+      "image": "schedulegenir_pic.png",
+      "liveView": "https://schedulegen.ir",
+      "sourceCode": "https://schedulegen.ir"
+    },
+    {
+      "title": "Cupid Manual",
+      "description": "A wordpress website about dating.",
+      "image": "cupidmanualcom_pic.png",
+      "liveView": "https://cupidmanual.com",
+      "sourceCode": "https://cupidmanual.com"
+    },
+    {
+      "title": "Landing Page",
+      "description": "A simple landing page with HTML and CSS.",
+      "image": "Landing-Page.png",
+      "liveView": "https://parsaklgr.github.io/Odin-landing-page/",
+      "sourceCode": "https://github.com/parsaklgr/Odin-landing-page"
+    },
+    {
+      "title": "Etch A Sketch",
+      "description": "A grid with custom size that you can sketch on.",
+      "image": "Etch-A-Sketch.png",
+      "liveView": "https://parsaklgr.github.io/Etch-A-Sketch/",
+      "sourceCode": "https://github.com/parsaklgr/Etch-A-Sketch"
+    },
+    {
+      "title": "Sign Up Form",
+      "description": "An Stylish sign up form.",
+      "image": "Sign-Up-Form.png",
+      "liveView": "https://parsaklgr.github.io/Sing-up-form/",
+      "sourceCode": "https://github.com/parsaklgr/Sing-up-form"
+    },
+    {
+      "title": "Restaurant Page",
+      "description": "A simple sample restuarant page.",
+      "image": "Restaurant-Page.png",
+      "liveView": "https://parsaklgr.github.io/Restaurant-Page/",
+      "sourceCode": "https://github.com/parsaklgr/Restaurant-Page/"
+    }
+  ],
+  "skills": [
+    { "title": "Next.js", "icon": "SiNextdotjs" },
+    { "title": "React", "icon": "FaReact" },
+    { "title": "WordPress", "icon": "FaWordpress" },
+    { "title": "Node.js", "icon": "FaNodeJs" },
+    { "title": "SEO", "icon": "FaSearch" },
+    { "title": "Google Analytics", "icon": "SiGoogleanalytics" },
+    { "title": "TypeScript", "icon": "SiTypescript" },
+    { "title": "Git", "icon": "SiGit" },
+    { "title": "HTML", "icon": "IoLogoHtml5" },
+    { "title": "CSS", "icon": "IoLogoCss3" },
+    { "title": "Tailwindcss", "icon": "SiTailwindcss" },
+    { "title": "JavaScript", "icon": "IoLogoJavascript" },
+    { "title": "Python", "icon": "IoLogoPython" }
+  ]
+}

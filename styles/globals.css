@@ -1,0 +1,14 @@
+html,
+body,
+.no_margin {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+body > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}

@@ -1,0 +1,51 @@
+.project-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 20rem;
+  width: 100%;
+  padding: 1rem 0 1rem 0;
+  border: 2px solid black;
+  border-radius: 2rem;
+}
+
+.project-container:hover {
+  color: rgba(0, 113, 243, 1);
+  border: 2px solid rgba(0, 113, 243, 1);
+}
+
+.project-container > p {
+  text-align: center;
+}
+
+.image-container {
+  height: 10rem;
+  width: 20rem;
+  overflow: hidden;
+}
+
+.image {
+  height: 10rem;
+  width: 20rem;
+  object-fit: contain;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.button-container button {
+  width: 7rem;
+  height: 2rem;
+  border-radius: 0.5rem;
+}
+
+.button-container button:hover {
+  background-color: rgba(0, 113, 243, 0.5);
+  cursor: pointer;
+}

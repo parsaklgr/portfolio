@@ -1,0 +1,51 @@
+.nav {
+  background-color: rgba(0, 113, 243, 0.2);
+}
+
+.nav li {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+.nav_ul,
+.nav_name,
+.nav_links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nav_ul {
+  justify-content: space-around;
+}
+
+.nav_name {
+  justify-content: center;
+  gap: 5px;
+}
+
+.nav_links {
+  justify-content: center;
+  gap: 20px;
+  font-family: "Courier New", monospace;
+}
+
+.nav_links li {
+  height: 100%;
+}
+
+.nav_links a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
+}
+
+.icon {
+  font-size: 2rem;
+}
+
+@media (max-width: 700px) {
+  .nav_links {
+    display: none;
+  }
+}

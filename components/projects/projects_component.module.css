@@ -1,0 +1,26 @@
+.projects-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5rem;
+}
+
+.projects-section > h2 {
+  font-size: 3rem;
+}
+
+.projects-container {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 5rem;
+  width: 90%;
+}
+
+.hr {
+  width: 80%;
+  border: 1px solid rgba(0, 113, 243, 1);
+}

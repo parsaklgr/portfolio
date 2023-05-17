@@ -16,14 +16,14 @@
   "projects": [
     {
       "title": "Free Automatic Schedule Maker",
-      "description": "Automatic academic schedule builder automatically generates and develop all possible schedules based on available courses' times. Enter your courses and hit auto generate schedules. It generates schedules so that there is no overlap in courses' times. You can determine if a course is optional or not, too.",
+      "description": "Automatically generates and develop all possible schedules based on available courses' times.",
       "image": "autoscheduleir_pic.png",
       "liveView": "https://autoschedule.ir",
       "sourceCode": "https://autoschedule.ir"
     },
     {
       "title": "Free Schedule Maker",
-      "description": "Schedule builder makes developing and making your academic, university, school, training, study, or personal weekly schedules easy. Build and generate your weekly schedules responsively and interactively online.",
+      "description": "Build and generate your weekly schedules responsively and interactively online.",
       "image": "schedulegenir_pic.png",
       "liveView": "https://schedulegen.ir",
       "sourceCode": "https://schedulegen.ir"

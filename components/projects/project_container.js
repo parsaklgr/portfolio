@@ -10,10 +10,10 @@ const ProjectContainer = (props) => {
       </div>
       <p>{description}</p>
       <div className={styles["button-container"]}>
-        <a href={liveView}>
+        <a href={liveView} target="_blank">
           <button>Live view</button>
         </a>
-        <a href={sourceCode}>
+        <a href={sourceCode} target="_blank">
           <button>Source code</button>
         </a>
       </div>

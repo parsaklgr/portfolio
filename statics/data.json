@@ -16,21 +16,28 @@
   "projects": [
     {
       "title": "Free Automatic Schedule Maker",
-      "description": "Automatically generates and develop all possible schedules based on available courses' times.",
+      "description": "Developed with Next.js. Automatically generates and develop all possible schedules based on available courses' times.",
       "image": "autoscheduleir_pic.png",
       "liveView": "https://autoschedule.ir",
       "sourceCode": "https://autoschedule.ir"
     },
     {
       "title": "Free Schedule Maker",
-      "description": "Build and generate your weekly schedules responsively and interactively online.",
+      "description": "Developed with Next.js. Build and generate your weekly schedules responsively and interactively online.",
       "image": "schedulegenir_pic.png",
       "liveView": "https://schedulegen.ir",
       "sourceCode": "https://schedulegen.ir"
     },
     {
+      "title": "Balance Sheet",
+      "description": "Developed with Vue.js. An expense tracker web application.",
+      "image": "balancesheet_pic.png",
+      "liveView": "https://parsaklgr.github.io/balancesheet/",
+      "sourceCode": "https://github.com/parsaklgr/balancesheet"
+    },
+    {
       "title": "Cupid Manual",
-      "description": "A wordpress website about dating.",
+      "description": "Developed with WordPress. A website about dating.",
       "image": "cupidmanualcom_pic.png",
       "liveView": "https://cupidmanual.com",
       "sourceCode": "https://cupidmanual.com"
@@ -68,6 +75,7 @@
     { "title": "Next.js", "icon": "SiNextdotjs" },
     { "title": "React", "icon": "FaReact" },
     { "title": "WordPress", "icon": "FaWordpress" },
+    { "title": "Vue.js", "icon": "FaVuejs" },
     { "title": "Node.js", "icon": "FaNodeJs" },
     { "title": "SEO", "icon": "FaSearch" },
     { "title": "Google Analytics", "icon": "SiGoogleanalytics" },
